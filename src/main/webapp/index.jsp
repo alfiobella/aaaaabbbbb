@@ -57,7 +57,7 @@ body {
 
 	var shoppingCatalog = {
 		g1 : {
-			price : 12.99,
+			price : 120.99,
 			desc : "Kwak"
 		},
 		g2 : {
